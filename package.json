@@ -1,7 +1,7 @@
 {
   "name": "riktech-ai",
-  "version": "1.0.0",
-  "description": "RikTech AI Application",
+  "version": "2.0.0",
+  "description": "RikTech AI - Advanced AI Assistant",
   "main": "public/index.html",
   "scripts": {
     "dev": "serve public",
